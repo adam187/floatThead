@@ -1,8 +1,40 @@
+### 2.0.2
+- fix issue with horizontal scrollbars + reflow breaking header position #345, #355
+
+### 2.0.1
+
+version skipped because of an npm snafu
+
+### 2.0.0
+
+Breaking changes:
+- slim version no longer provided. Will use underscore, or shim the things we need
+- removed allowing deprecated options from 1.3.x
+- moved development version into /src dir and no longer use grunt here
+
+nothing big and exciting in version 2, just semvar and breaking changes.
+
+bug fixes:
+- #348 - headers Stay stuck after reposition
+- commonjs support works now, i promise
+
+### 1.4.5
+
+- #334 - fix memory leaks from print events
+- #335 - absolute position on overflow scrolling was broken if used with `top` option
+- added rudementary commonjs support to require jquery
+
+### 1.4.4
+
+- #323 - use css transform (GPU) to float the header. (IE9+)
+- #325 - fix bug introduced in 1.4.3 which caused issues on lots of resizing
+- #327 - fix bug where reflowed event was being unbound after print
+
 ### 1.4.3
 
 - #316 - ie9 cant use matchmedia properly
 - #321 - do not require Content Security Policy (CSP) style-src 'unsafe-inline'
-- `enableAria` option has been removed. It is now always enabled. 
+- `enableAria` option has been removed. It is now always enabled.
 
 
 ### 1.4.2

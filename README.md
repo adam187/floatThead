@@ -1,4 +1,4 @@
-jquery.floatThead v1.4.3
+jquery.floatThead 2.0.3
 =================
 [![woot](http://giant.gfycat.com/AnyGloriousAlpaca.gif "or just click")](http://mkoryak.github.io/floatThead/)
 
@@ -20,11 +20,12 @@ npm install floatthead
 bower install floatThead
 ```
 #### Download code
-[Latest Release (zip)](https://github.com/mkoryak/floatThead/archive/1.4.3.zip)
+[Latest Release (zip)](https://github.com/mkoryak/floatThead/archive/2.0.3.zip)
 
 #### Via CDN
-[http://cdnjs.com/libraries/floatthead/](http://cdnjs.com/libraries/floatthead/)  
+[http://cdnjs.com/libraries/floatthead/](http://cdnjs.com/libraries/floatthead/)
 [http://www.jsdelivr.com/#!jquery.floatthead](http://www.jsdelivr.com/#!jquery.floatthead)
+[https://unpkg.com/floatthead](https://unpkg.com/floatthead)
 
 #### For java people
 [Webjar](https://github.com/webjars/floatThead)
@@ -59,7 +60,7 @@ If you use css and html best practices, this plugin will work. If you are stuck 
 
 How to get help with the floatThead
 ------------
-All issues should be reported through github. Coffee/Beer donations help are welcome ;)
+All issues should be reported through github. Coffee/Beer donations are welcome ;)
 
 Requirements:
 -------------
@@ -79,7 +80,7 @@ Change Log
 
 ## Who is using floatThead ?
 
-### [around 20K hits on guthub cod search](https://github.com/search?q=floatThead&ref=reposearch&type=Code&utf8=%E2%9C%93)
+### [around 45K hits on guthub cod search](https://github.com/search?q=floatThead&ref=reposearch&type=Code&utf8=%E2%9C%93)
 
 ### [http://kangax.github.io/compat-table/](http://kangax.github.io/compat-table/es6/)
 
@@ -94,15 +95,6 @@ Change Log
 ### [django-sql-explorer](https://github.com/epantry/django-sql-explorer)
 - https://github.com/epantry/django-sql-explorer/commit/34ae345325a1e07ff952800fcd6dc5bddac5e3f2-
 
-
-# You are still reading this?
-
-Like clicking on things? Check out these great domains:
-
-- http://guthib.com
-- http://soundbutt.com
-- http://guthub.com
-- http://programmingdrunk.com
 
 License
 -------
